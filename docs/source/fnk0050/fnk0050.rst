@@ -7,17 +7,24 @@ Freenove
    :caption: Welcome
 
    codes/tutorial/Welcome.rst
+   codes/tutorial/List.rst
+   codes/tutorial/Preface.rst
 
 .. toctree::
    :titlesonly: 
    :caption: Preparation
 
+   codes/tutorial/Preparation.rst
    
 .. toctree::
    :numbered:
    :titlesonly:
    :caption: Projects
     
+   codes/tutorial/1_Install_Python_Libraries.rst
+   codes/tutorial/2_Assemble_Robot.rst
+   codes/tutorial/3_Module_test.rst
+   codes/tutorial/4_Robot_Dog.rst
 
 .. toctree::
    :titlesonly:

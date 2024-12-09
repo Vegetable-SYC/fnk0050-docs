@@ -11,7 +11,7 @@ First, read the document :blue:`About_Battery.pdf` in the unzipped folder.
 
 If you did not download the zip file, please download it and unzip it via link below.
 
-https://github.com/Freenove/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/archive/master.zip
+https://github.com/Freenove/Freenove_Robot_Dog_Kit_for_Raspberry_Pi/archive/master.zip
 
 Get Support and Offer Input
 
