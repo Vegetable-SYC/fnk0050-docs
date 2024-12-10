@@ -38,7 +38,7 @@ print("hello")
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "fnk0066-docs"
+project = "fnk0050-docs"
 copyright = "2016 - " + str(datetime.now().year) + ", support@freenove.com"
 author = "freenove"
 release = "v1.0"
@@ -68,7 +68,7 @@ html_theme = "sphinx_rtd_theme"
 
 html_static_path = ["_static"]
 
-html_logo = "fnk0043/codes/_static/imgs/freenove-logo.png"
+html_logo = "fnk0050/codes/_static/imgs/freenove-logo.png"
 html_theme_options = {
     "collapse_navigation": False,
     "logo_only": True,
