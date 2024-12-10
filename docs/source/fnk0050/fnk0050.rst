@@ -28,6 +28,6 @@ Freenove Robot Dog Kit for Raspberry Pi
 
 .. toctree::
    :titlesonly:
-   :caption: what_s_next
+   :caption: What's Next?
 
    codes/tutorial/WhatsNext.rst
