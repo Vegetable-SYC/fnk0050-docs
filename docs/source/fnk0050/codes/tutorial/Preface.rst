@@ -2,7 +2,7 @@
 Preface
 ##############################################################################
 
-Welcome to use Freenove 4WD Smart Car Kit for Raspberry Pi. Following this tutorial, you can make a very cool smart car with many functions.
+Welcome to use Freenove Robot Dog Kit for Raspberry Pi. Following this tutorial, you can make a very cool robot dog with many functions.
 
 This kit is based on Pi Raspberry, a popular control panel, so you can share and exchange your experience and design ideas with many enthusiasts all over the world. The parts in this kit include all electronic components, modules, and mechanical components required for making the smart car. And all of them are packaged individually. There are detailed assembly and commissioning instructions in this book. 
 

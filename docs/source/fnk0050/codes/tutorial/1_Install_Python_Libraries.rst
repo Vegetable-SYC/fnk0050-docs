@@ -38,7 +38,7 @@ Open the terminal and type the following commands to obtain the car code. And th
 .. code-block:: console
 
     $ cd
-    $ git clone --depth 1 https://github.com/Freenove/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi
+    $ git clone --depth 1 https://github.com/Freenove/Freenove_Robot_Dog_Kit_for_Raspberry_Pi
 
 .. image:: ../_static/imgs/Chapter_1_Software_installation/Chapter1_03.png
     :align: center
@@ -224,7 +224,7 @@ Step 3 Run the Libraries Installation Program
 
 .. code-block:: console
 
-    $ cd ~/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/Code
+    $ cd ~/Freenove_Robot_Dog_Kit_for_Raspberry_Pi/Code
     
 2.	Run setup.py
 
